@@ -1,0 +1,10 @@
+/home/luna/Desktop/Faks/rg/Atlantida/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/luna/Desktop/Faks/rg/Atlantida/cmake-build-debug/CMakeFiles/project_base.dir
+/home/luna/Desktop/Faks/rg/Atlantida/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/luna/Desktop/Faks/rg/Atlantida/cmake-build-debug/CMakeFiles/STB_IMAGE.dir
+/home/luna/Desktop/Faks/rg/Atlantida/cmake-build-debug/libs/glad/CMakeFiles/edit_cache.dir
+/home/luna/Desktop/Faks/rg/Atlantida/cmake-build-debug/libs/glad/CMakeFiles/rebuild_cache.dir
+/home/luna/Desktop/Faks/rg/Atlantida/cmake-build-debug/libs/glad/CMakeFiles/glad.dir
+/home/luna/Desktop/Faks/rg/Atlantida/cmake-build-debug/libs/imgui/CMakeFiles/rebuild_cache.dir
+/home/luna/Desktop/Faks/rg/Atlantida/cmake-build-debug/libs/imgui/CMakeFiles/edit_cache.dir
+/home/luna/Desktop/Faks/rg/Atlantida/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir
