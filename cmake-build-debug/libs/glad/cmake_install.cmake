@@ -1,4 +1,4 @@
-# Install script for directory: /home/luna/Desktop/Faks/rg/Atlantida/libs/glad
+# Install script for directory: /home/luna/Desktop/Faks/rg/Atlantida/Atlantida/libs/glad
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

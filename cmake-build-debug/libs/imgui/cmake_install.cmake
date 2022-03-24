@@ -1,4 +1,4 @@
-# Install script for directory: /home/luna/Desktop/Faks/rg/Atlantida/libs/imgui
+# Install script for directory: /home/luna/Desktop/Faks/rg/Atlantida/Atlantida/libs/imgui
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

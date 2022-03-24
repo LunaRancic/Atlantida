@@ -14,7 +14,4 @@ Prazan projekat sa pratećim bibliotekama koje koristimo na času.
 	B - activate/deactivate Blinn-Phong lighting model
 	V - spot light on/off
 	Arrow keys - move the ring forwards, backwards, left and right
-# Racunarska-grafika-projekat-Atlantida
-# Racunarska-grafika-projekat-Atlantida
-# Racunarska-grafika-projekat-Atlantida
-# Racunarska-grafika-projekat-Atlantida
+
